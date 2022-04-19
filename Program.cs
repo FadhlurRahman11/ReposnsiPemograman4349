@@ -18,7 +18,7 @@ namespace Responsi2283
             karyawan1.NAMA = "Nur";
             karyawan1.GajiBulanan = 3000000;
 
-            // Validasi karyawan2
+            // Validasi karyawan 1
             if (karyawan1.GajiBulanan < 0)
             {
                 karyawan1.GajiBulanan = 0;
@@ -32,7 +32,7 @@ namespace Responsi2283
             karyawan2.NAMA = "Fadhlur";
             karyawan2.GajiBulanan = 2000000;
 
-            // Validasi karyawan2
+            // Validasi karyawan 2
             if (karyawan2.GajiBulanan < 0)
             {
                 karyawan2.GajiBulanan = 0;
@@ -46,7 +46,7 @@ namespace Responsi2283
             karyawan3.NAMA = "Rahman";
             karyawan3.GajiBulanan = 1500000;
 
-            // Validasi karyawan3
+            // Validasi karyawan 3
             if(karyawan3.GajiBulanan < 0)
             {
                 karyawan3.GajiBulanan = 0;
